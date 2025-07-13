@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences ** I have a solid background in the research of user´s accessibility**
   
-- Codeacademy https://www.codecademy.com/profiles/ANA2023
+- Codeacademy [(https://www.codecademy.com/profiles/AnaMolina-dev)]
 
 - ⚡ Fun fact **Watching foreign films in their original language is a hobbie of mine **
               **Also creating cozy spaces that heal, keeps my creativity exercise**
