@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ana, a UX/UI designer ☕💡</h1>
+<h1 align="center">🖐🏻Hi! I'm Ana, a UX/UI designer💡☕</h1>
 <h2 align="center">I´m a Python Full-Stack developer<em><u> in the making</u></em></h2>
                                                       
 <h3 align="center">Love efficiency and simplicity, good quality and appealing design.</h3>
@@ -7,11 +7,11 @@
 <p align="center">
 
 
-- 🔭 I’m currently working on **developing my hard and soft skills**
+- 🎯 I’m currently working on **developing my hard and soft skills**
 
-- 🌱 I’m currently learning **fullstack in a bootcamp at Factoria 5**
+- ⌨ I’m currently learning **fullstack in a bootcamp at Factoria 5**
 
-- 👯 I’m looking to collaborate on **with any UX designers**
+- ♿ I’m looking to collaborate on **with any UX designers**
 
 - 🤝 I’m looking for help with **learning to work in teams**
 
@@ -19,13 +19,13 @@
 
 - 💬 Ask me about **anything and see if I could help you**
 
-- 📫 How to reach me **through Linkedin,https://www.linkedin.com/in/ana-molina-958a27252/, for me privacy is important**
+- 📧 How to reach me **through Linkedin,https://www.linkedin.com/in/ana-molina-958a27252/, for me privacy is important**
 
-- 📄 Know about my experiences ** I have a solid background in the research of user´s accessibility**
+- 🎓 Know about my experiences ** I have a solid background in the research of user´s accessibility**
   
 - Codeacademy [(https://www.codecademy.com/profiles/AnaMolina-dev)]
 
-- ⚡ Fun fact **Watching foreign films in their original language is a hobbie of mine **
+- 🎞️ Fun fact **Watching foreign films in their original language is a hobbie of mine **
               **Also creating cozy spaces that heal, keeps my creativity exercise**
 
 </p>
